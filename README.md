@@ -7,11 +7,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-🇷🇺
-<p align="left">I'm from Russia 🇷🇺</p> 🇷🇺
+
+<p align="left">I'm from Russia </p>
 <p> <br> <br>- 🔭 I'm first year applied computer science student<br>- 📚 I'm currently learning ASP.NET</p>
 
-###🇷🇺
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
