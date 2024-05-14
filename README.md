@@ -20,4 +20,3 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" alt="mssql logo"  />
   <img width="12" />
 </div>
-###
