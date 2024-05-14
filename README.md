@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm from Russia 🇷🇺 <br><br>- 🔭 I'm first year applied computer science student<br>- 📚 I'm currently learning ASP.NET</p>
+<p align="left">I'm from Russia 🇷🇺 <br> <br>- 🔭 I'm first year applied computer science student<br>- 📚 I'm currently learning ASP.NET</p>
 
 ###
 
